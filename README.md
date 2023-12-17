@@ -1,4 +1,3 @@
 # ansible-config-mgt
 
-A repeat of past project
-starting all over
+I changed the name of the repository
