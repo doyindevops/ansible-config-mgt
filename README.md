@@ -1,3 +1,3 @@
 # ansible-config-mgt
 
-I changed the name of the repository
+I changed the name of the repositor
