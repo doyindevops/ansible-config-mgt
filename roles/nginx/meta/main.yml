@@ -1,0 +1,31 @@
+---
+galaxy_info:
+  author: Mullholland
+  namespace: mullholland
+  role_name: nginx
+  description: installs and configures nginx
+  license: MIT
+  company: none
+  min_ansible_version: "2.10"
+
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Amazon
+      versions:
+        - Candidate
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+    - cloud
+    - development
+    - system
+    - web
+
+dependencies: []
